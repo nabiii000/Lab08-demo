@@ -1,4 +1,4 @@
-name: failed deleteCityTest
+name: Java CI
 
 on:
   push:
